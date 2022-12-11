@@ -1,7 +1,7 @@
 # DownloadMusic
 Fazer download de áudio diretamente do Youtube
 
-# Requerimentos
+# Requerimentos do projetos
 <ul>Python 3.11.0</ul>
 <ul>pytube - Codigo de instalação: <code>pip install pytube</code></ul>
 <ul>moviepy - Codigo de instalação: <code>pip install moviepy</code></ul>
