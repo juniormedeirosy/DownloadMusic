@@ -1,4 +1,4 @@
-# DownloadMusic 0.0.1
+# DownloadMusic 1.0.0
 Fazer download de áudio diretamente do Youtube
 
 # Requerimentos do projetos
