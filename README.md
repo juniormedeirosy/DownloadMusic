@@ -1,5 +1,5 @@
 # DownloadMusic 1.0.0
-Fazer download de áudio diretamente do Youtube
+Fazer download de vídeo e áudio diretamente do Youtube
 
 # Requerimentos do projetos
 <ul>Python 3.11.0</ul>
